@@ -26,7 +26,8 @@ Fornecer uma análise completa sobre:
 
 ## 🖼️ Exemplo visual
 
-![Dashboard de Produção](./Detalhes%20Producao.png)
+![Dashboard de Produção](./Detalhes%20Produção.png)
+![Dashboard de Produção](./Overview%20Produção.png)
 
 ## 📌 Observações
 
